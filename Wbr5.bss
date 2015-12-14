@@ -1,0 +1,74 @@
+*00{Wbridge5}=NYYYYYY This is the convention card used by Wbridge5, a prominent French bridge software.
+
+001C=NYYYYYY338
+001D=NYYYYYY348 Perhaps 4!S 4!H 3!D 2!C.
+001H=NYYYYYY358
+001S=NYYYYYY358
+001N=NYYYYYY3   15-17.  2-5!S 2-5!H 2-6!D 2-6!C.
+002C=YYYYYYNB08 22-23 or 4-4.5 losers.
+002D=YYYYYYN608 24+ or 0-3.5 losers.
+002N=NYYYYYN4   20-21.  2-4!S 2-4!H 2-5!D 2-5!C.
+003N=YYYYYYY2   AKQxxxx or more in either minor.  No stopper in other suits.
+004C=YYYYYYN608 16-19 or 5-5.5 losers.  7+!H.  5+HCP in !H if exactly 7 cards.
+004D=YYYYYYN608 16-19 or 5-5.5 losers.  7+!S.  5+HCP in !S if exactly 7 cards.
+004H=NYYYYYY978 5+HCP in !H if exactly 7 cards.
+004S=NYYYYYY978 5+HCP in !S if exactly 7 cards.
+004N=YYYYYYY0   6-7!D 6-7!C.
+005C=NYYYYYY988 18-22 or 4.5-5 losers.  5+HCP in !C if exactly 8 cards.
+005D=NYYYYYY988 18-22 or 4.5-5 losers.  5+HCP in !D if exactly 8 cards.
+
+302H=NYYYYYY958
+322H=NYYYYYY968
+402H=NYYYYYY368
+552H=NYYYYYY968 Perhaps AKxxx.
+562H=NYYYYYY968
+
+302S=NYYYYYY958
+322S=NYYYYYY968
+402S=NYYYYYY368
+552S=NYYYYYY968 Perhaps AKxxx.
+562S=NYYYYYY968
+
+003C=NYYYYYY968 4+HCP in !C if exactly 6 cards.
+403C=NYYYYYY378
+003D=NYYYYYY968 4+HCP in !D if exactly 6 cards.
+403D=NYYYYYY378
+003H=NYYYYYY968 6+HCP in !H if exactly 6 cards.
+403H=NYYYYYY378
+003S=NYYYYYY968 6+HCP in !S if exactly 6 cards.
+403S=NYYYYYY378
+
+002CP2D=YYYYYYNC08 Negative.
+002CP2H=NYYYYYN758 Positive.
+002CP2S=NYYYYYN758 Positive.
+002CP2N=YYYYYYN7   Positive.
+002CP3C=NYYYYYN768 Positive.
+002CP3D=NYYYYYN768 Positive.
+002CP3H=NYYYYYN778 Positive.
+002CP3S=NYYYYYN778 Positive.
+
+002DP2H=YYYYYYNC08 Negative.  No ace.
+002DP2S=YYYYYYN708 1 ace.
+002DP2N=YYYYYYN7   Positive without ace.  8+ or 2 kings.
+002DP3C=NYYYYYN768 KQJxxx or more.  No ace.
+002DP3D=NYYYYYN768 KQJxxx or more.  No ace.
+002DP3H=NYYYYYN768 KQJxxx or more.  No ace.
+002DP3S=NYYYYYN768 KQJxxx or more.  No ace.
+002DP3N=YYYYYYN7   2 aces.
+002DP4C=YYYYYYN708 3 aces.
+
+003NPP=NYYNNYY     2 aces or 3 stopped suits.
+003NP4C=YYYNNNYC08 Pass or correct to !D.
+003NP5C=YYYNNNYC08 Pass or correct to !D.
+003NP6C=YYYNNYN708 Pass or correct to !D.
+003NP7C=YYYNNYN708 Pass or correct to !D.
+003NP4N=YNNNNYN708 Pass or correct to slam with more cards.
+003NP6N=YNNNNYN708 Pass or correct to 7NT with 8+ cards.
+
+004CP4D=YNNYNYNC08
+004CP4H=YNNYNNY108
+
+004DP4H=YNNNYYNC08
+004DP4S=YNNNYNY108
+
+%BDEECDDDDBBBBBCCBBBBBBBDCFCBEDGCBBBBBBBBHFAHFAHCAHFAHFAHCA Vinje trump signal: Hi-Lo shows a hand dealt with 3 even-card suits.\\Rules are followed as strictly as possible in the first 7 tricks.
