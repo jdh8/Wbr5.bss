@@ -71,4 +71,16 @@
 004DP4H=YNNNYYNC08
 004DP4S=YNNNYNY108
 
+*001ND=NYYYYYY Penalty.
+*001N2C=YYYYYNYC08 At least 5-4 in majors.  Ask for the longer major.
+*001N2D=YYYYYNYB08 Weak 2!S or 2!H.
+*001N2H=NYYYYNY208 5+!H with a 4+ minor.
+*001N2S=NYYYYNY208 5+!S with a 4+ minor.
+*001N2N=YYYYYNYA   5+!D 5+!C.
+
+*001N2CP2D=YNNYYNYC08 Same length in majors.
+*001N2DP2H=YNNYYNYC08
+*001N2HP2N=YYYYNNYC   Ask for the minor.
+*001N2SP2N=YYYNYNYC   Ask for the minor.
+
 %BDEECDDDDBBBBBCCBBBBBBBDCFCBEDGCBBBBBBBBHFAHFAHCAHFAHFAHCA Vinje trump signal: Hi-Lo shows a hand dealt with 3 even-card suits.\\Rules are followed as strictly as possible in the first 7 tricks.
