@@ -5,17 +5,17 @@
 001H=NYYYYYY358 4.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).
 001S=NYYYYYY358 4.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).
 001N=NYYYYYY3   2-5!S 2-5!H 2-6!D 2-6!C.  5.5-7.0 tricks (14.5-16.5 points).
-002C=YYYYYYNB08 7.5-8.5 tricks (21.0-24.0 points) or 9.0-10.0 NT tricks (21.5-23.5 points).
-002D=YYYYYYN608 8.5+ tricks (24+ points) or 10+ NT tricks (23.5+ points).
+002C=YYYYYYNB08 7.5-8.5 tricks (21.0-24.0 points) or 9.0-10.0 NT tricks (21.5-23.5 points).  Limit strong 2!C.
+002D=YYYYYYN608 8.5+ tricks (24+ points) or 10+ NT tricks (23.5+ points).  French 2!D.
 002N=NYYYYYN4   2-4!S 2-4!H 2-5!D 2-5!C.  8.0-9.0 tricks (19.5-21.5 points).
-003N=YYYYYYY2   AKQxxxx or more in either minor.  No stopper in other suits.
-004C=YYYYYYN608 7+!H.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !H if exactly 7 cards.
-004D=YYYYYYN608 7+!S.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !S if exactly 7 cards.
+003N=YYYYYYY2   AKQxxxx or more in either minor.  No stopper in other suits.  Gambling 3NT.
+004C=YYYYYYN608 7+!H.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !H if exactly 7 cards.  Namyats.
+004D=YYYYYYN608 7+!S.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !S if exactly 7 cards.  Namyats.
 004H=NYYYYYY978 4.0-6.0 tricks (10.5-16.5 points).  0+ tricks (AJ or better) in !H if exactly 7 cards.
 404H=NYYYYYY078
 004S=NYYYYYY978 4.0-6.0 tricks (10.5-16.5 points).  0+ tricks (AJ or better) in !S if exactly 7 cards.
 404S=NYYYYYY078
-004N=YYYYYYY9   6-7!D 6-7!C.  < 7.5 tricks (21 points).
+004N=YYYYYYY9   6-7!D 6-7!C.  < 7.5 tricks (21 points).  Unusual NT.
 005C=NYYYYYY988 6.5-7.5 tricks (18.0-21.0 points).  5+ points in !C if exactly 8 cards.
 005D=NYYYYYY988 6.5-7.5 tricks (18.0-21.0 points).  5+ points in !D if exactly 8 cards.
 
@@ -58,14 +58,14 @@
 033S=NYYYYYY968 2.5-5.5 tricks (6.0-14.5).  0+ tricks (KQJ or better) in !S if exactly 6 cards.
 403S=NYYYYYY378 4.5-5.5 tricks (12.0-14.5 points).
 
-002CP2D=YYYYYYNC08 < 3 NT tricks (10 points).
-002CP2H=NYYYYYN758 3+ tricks (7.5+ points).
-002CP2S=NYYYYYN758 3+ tricks (7.5+ points).
-002CP2N=YYYYYYN7   3+ tricks (10+ points).
-002CP3C=NYYYYYN768 4+ tricks (10.5+ points).
-002CP3D=NYYYYYN768 4+ tricks (10.5+ points).
-002CP3H=NYYYYYN778 4+ tricks (10.5+ points).
-002CP3S=NYYYYYN778 4+ tricks (10.5+ points).
+002CP2D=YYYYYYNC08 < 3 NT tricks (10 points).  Negative.
+002CP2H=NYYYYYN758 3+ tricks (7.5+ points).  Positive.
+002CP2S=NYYYYYN758 3+ tricks (7.5+ points).  Positive.
+002CP2N=YYYYYYN7   3+ tricks (10+ points).  Positive.
+002CP3C=NYYYYYN768 4+ tricks (10.5+ points).  Positive.
+002CP3D=NYYYYYN768 4+ tricks (10.5+ points).  Positive.
+002CP3H=NYYYYYN778 4+ tricks (10.5+ points).  Positive.
+002CP3S=NYYYYYN778 4+ tricks (10.5+ points).  Positive.
 
 002DP2H=YYYYYYNC08 No ace nor 2 suit tricks (6 points).
 002DP2S=YYYYYYN708 1 ace.
@@ -85,50 +85,50 @@
 003NP4N=YNNNNYN708 Pass or correct to slam with more cards.
 003NP6N=YNNNNYN708 Pass or correct to 7NT with 8+ cards.
 
-004CP4D=YNNYNYNC08 5.0+ tricks (13.5+ points).
+004CP4D=YNNYNYNC08 5.0+ tricks (13.5+ points).  Last Train.
 004CP4H=YNNYNNY108
 
-004DP4H=YNNNYYNC08 5.0+ tricks (13.5+ points).
+004DP4H=YNNNYYNC08 5.0+ tricks (13.5+ points).  Last Train.
 004DP4S=YNNNYNY108
 
-*001C2C=NYYYYYY368 4.5-6.5 tricks (12.0-18.0 points).
-*001C2D=YYYYYYY908 5+!S 5+!H.  4.0-6.0 tricks (10.5-16.5 points).
-*001C2N=YYYYYYY9   5+!H 5+!D.  4.0-6.0 tricks (10.5-16.5 points).
-*001C3C=YYYYYYY908 5+!S 5+!D.  4.0-6.0 tricks (10.5-16.5 points).
-*001C3D=YYYYYYY408 5+!S 5+!H.  6.0-7.5 tricks (16.5-21.0 points).
-*001C3N=YYYYYYY4   5+!H 5+!D.  6.0-7.5 tricks (16.5-21.0 points).
-*001C4C=YYYYYYY408 5+!S 5+!D.  6.0-7.5 tricks (16.5-21.0 points).
+*001C2C=NYYYYYY358 4.5-6.5 tricks (12.0-18.0 points).
+*001C2D=YYYYYYY908 5+!S 5+!H.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001C2N=YYYYYYY9   5+!H 5+!D.  4.0-6.0 tricks (10.5-16.5 points).  Unusual NT.
+*001C3C=YYYYYYY908 5+!S 5+!D.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001C3D=YYYYYYY408 5+!S 5+!H.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
+*001C3N=YYYYYYY4   5+!H 5+!D.  6.0-7.5 tricks (16.5-21.0 points).  Unusual NT.
+*001C4C=YYYYYYY408 5+!S 5+!D.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
 *101C3D=NYYYYYY968 3.0-5.5 tricks (7.5-14.5).  -0.5+ tricks (KJ or better) in !D if exactly 6 cards.
 *121C3D=NYYYYYY968 3.5-5.5 tricks (9.0-14.5).  -0.5+ tricks (KJ or better) in !D if exactly 6 cards.
 *131C3D=NYYYYYY968 2.5-5.5 tricks (6.0-14.5).  -0.5+ tricks (KJ or better) in !D if exactly 6 cards.
 
-*001D2D=YYYYYYY908 5+!S 5+!H.  4.0-6.0 tricks (10.5-16.5 points).
-*001D2N=YYYYYYY9   5+!H 5+!C.  4.0-6.0 tricks (10.5-16.5 points).
-*001D3C=NYYYYYY958 5+!S.  4.0-6.0 tricks (10.5-16.5 points).
-*001D3D=YYYYYYY408 5+!S 5+!H.  6.0-7.5 tricks (16.5-21.0 points).
-*001D3N=YYYYYYY4   5+!H 5+!C.  6.0-7.5 tricks (16.5-21.0 points).
-*001D4C=NYYYYYY458 5+!S.  6.0-7.5 tricks (16.5-21.0 points).
+*001D2D=YYYYYYY908 5+!S 5+!H.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001D2N=YYYYYYY9   5+!H 5+!C.  4.0-6.0 tricks (10.5-16.5 points).  Unusual NT.
+*001D3C=NYYYYYY958 5+!S.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001D3D=YYYYYYY408 5+!S 5+!H.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
+*001D3N=YYYYYYY4   5+!H 5+!C.  6.0-7.5 tricks (16.5-21.0 points).  Unusual NT.
+*001D4C=NYYYYYY458 5+!S.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
 
-*001H2H=YYYYYYY908 5+!S 5+!C.  4.0-6.0 tricks (10.5-16.5 points).
-*001H2N=YYYYYYY9   5+!D 5+!C.  4.0-6.0 tricks (10.5-16.5 points).
-*001H3C=YYYYYYY908 5+!S 5+!D.  4.0-6.0 tricks (10.5-16.5 points).
-*001H3H=YYYYYYY408 5+!S 5+!C.  6.0-7.5 tricks (16.5-21.0 points).
-*001H3N=YYYYYYY4   5+!D 5+!C.  6.0-7.5 tricks (16.5-21.0 points).
-*001H4C=YYYYYYY408 5+!S 5+!D.  6.0-7.5 tricks (16.5-21.0 points).
+*001H2H=YYYYYYY908 5+!S 5+!C.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001H2N=YYYYYYY9   5+!D 5+!C.  4.0-6.0 tricks (10.5-16.5 points).  Unusual NT.
+*001H3C=YYYYYYY908 5+!S 5+!D.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001H3H=YYYYYYY408 5+!S 5+!C.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
+*001H3N=YYYYYYY4   5+!D 5+!C.  6.0-7.5 tricks (16.5-21.0 points).  Unusual NT.
+*001H4C=YYYYYYY408 5+!S 5+!D.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
 
-*001S2S=YYYYYYY908 5+!H 5+!C.  4.0-6.0 tricks (10.5-16.5 points).
-*001S2N=YYYYYYY9   5+!D 5+!C.  4.0-6.0 tricks (10.5-16.5 points).
-*001S3C=YYYYYYY908 5+!H 5+!D.  4.0-6.0 tricks (10.5-16.5 points).
-*001S3S=YYYYYYY408 5+!H 5+!C.  6.0-7.5 tricks (16.5-21.0 points).
-*001S3N=YYYYYYY4   5+!D 5+!C.  6.0-7.5 tricks (16.5-21.0 points).
-*001S4C=YYYYYYY408 5+!H 5+!D.  6.0-7.5 tricks (16.5-21.0 points).
+*001S2S=YYYYYYY908 5+!H 5+!C.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001S2N=YYYYYYY9   5+!D 5+!C.  4.0-6.0 tricks (10.5-16.5 points).  Unusual NT.
+*001S3C=YYYYYYY908 5+!H 5+!D.  4.0-6.0 tricks (10.5-16.5 points).  French Michaels.
+*001S3S=YYYYYYY408 5+!H 5+!C.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
+*001S3N=YYYYYYY4   5+!D 5+!C.  6.0-7.5 tricks (16.5-21.0 points).  Unusual NT.
+*001S4C=YYYYYYY408 5+!H 5+!D.  6.0-7.5 tricks (16.5-21.0 points).  French Michaels.
 
-*001ND=NYYYYYY 6+ tricks (16+ points).
-*001N2C=YYYYYNYC08 At least 5-4 in majors.  4.0-6.5 tricks (10.5-18.0 points).
-*001N2D=YYYYYNYB08 6+!S/!H.  4.0-6.5 tricks (10.5-18.0 points).
-*001N2H=NYYYYNY208 5+!H with a 4+ minor.  4.0-6.5 tricks (10.5-18.0 points).
-*001N2S=NYYYYNY208 5+!S with a 4+ minor.  4.0-6.5 tricks (10.5-18.0 points).
-*001N2N=YYYYYNYA   5+!D 5+!C.  4.5-6.5 tricks (12.0-18.0 points).
+*001ND=NYYYYYY 6+ tricks (16+ points).  Penalty.
+*001N2C=YYYYYNYC08 At least 5-4 in majors.  4.0-6.5 tricks (10.5-18.0 points).  Landy.
+*001N2D=YYYYYNYB08 6+!S/!H.  4.0-6.5 tricks (10.5-18.0 points).  Multi.
+*001N2H=NYYYYNY208 5+!H with a 4+ minor.  4.0-6.5 tricks (10.5-18.0 points).  Muiderberg.
+*001N2S=NYYYYNY208 5+!S with a 4+ minor.  4.0-6.5 tricks (10.5-18.0 points).  Muiderberg.
+*001N2N=YYYYYNYA   5+!D 5+!C.  4.5-6.5 tricks (12.0-18.0 points).  Unusual NT.
 
 *001N2CP2D=YNNYYNYC08 Same length in majors.
 *001N2DP2H=YNNYYNYC08
