@@ -58,6 +58,26 @@
 033S=NYYYYYY9682.5-5.5 tricks (6.0-14.5).  0+ tricks (KQJ or better) in !S if exactly 6 cards.
 403S=NYYYYYY3784.5-5.5 tricks (12.0-14.5 points).
 
+001NP2C=YYYYYYYC08Invitational+ with a 4+ major, or weak 4-5!S 4-5!H 4-5!D 0-1!C.  Stayman.
+001NP2D=YYYYYYYA085+!H.
+001NP2H=YYYYYYYA085+!S.
+001NP2S=YYYYYYYA086+!C.
+001NP2N=NYYYYYN4
+001NP3C=YYYYYYYA086+!D.
+001NP4D=YNNYYNN6085+!S 5+!H.
+001NP4S=YYYNNNN6085+!D 5+!C.
+001NP4N=NNNNNYN7Quantitative invitation to 6NT.
+001NP5N=NNNNNYN7Quantitative invitation to 7NT.
+
+501NP3D=NYYYYYN7585.5+ tricks (15.0+ points).
+501NP3H=NYYYYYN7585.5+ tricks (15.0+ points).
+501NP3S=NYYYYYN7585.5+ tricks (15.0+ points).
+501NP4C=NYYYYYN7585.5+ tricks (15.0+ points).
+601NP3D=NYNYYYN6014!S 4!H 4-5!C.
+601NP3H=NYYNYYN6014!S 4-5!D 4-5!C.
+601NP3S=NYYYNYN6014!H 4-5!D 4-5!C.
+601NP4C=NNYYYYN6014!S 4!H 4-5!D.
+
 002CP2D=YYYYYYNC08< 3 NT tricks (10 points).  Negative.
 002CP2H=NYYYYYN7583+ tricks (7.5+ points).  Positive.
 002CP2S=NYYYYYN7583+ tricks (7.5+ points).  Positive.
