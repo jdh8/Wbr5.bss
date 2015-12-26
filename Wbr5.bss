@@ -1,9 +1,9 @@
 *00{Wbridge5}=NYYYYYYThis is the convention card used by [Wbridge5][wbr5], a prominent French bridge software.  Source of this CC is [hosted on Github][host].\\\\The software evaluates hands with real-time double-dummy analysis, unsuitable to describe in the convention card.  Nevertheless, there is big data from [Thomas's Bridge Fantasia][thomas] telling us what to bid.\\\\[wbr5]: http://wbridge5.com/\\[host]: https://github.com/jdh8/Wbr5.bss\\[thomas]: http://bridge.thomasoandrews.com/valuations/
 
-001C=NYYYYYY3384.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).
-001D=NYYYYYY3484.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).  Perhaps 4!S 4!H 3!D 2!C.
-001H=NYYYYYY3584.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).
-001S=NYYYYYY3584.5-7.5 tricks (12.0-21.0 points) or 4.0-8.0 NT tricks (12.0-19.5 points).
+001C=NYYYYYY3384.5+ tricks (12+ points) or 4+ NT tricks (12+ points).
+001D=NYYYYYY3484.5+ tricks (12+ points) or 4+ NT tricks (12+ points).  Perhaps 4!S 4!H 3!D 2!C.
+001H=NYYYYYY3584.5+ tricks (12+ points) or 4+ NT tricks (12+ points).
+001S=NYYYYYY3584.5+ tricks (12+ points) or 4+ NT tricks (12+ points).
 001N=NYYYYYY32-5!S 2-5!H 2-6!D 2-6!C.  5.5-7.0 tricks (14.5-16.5 points).
 002C=YYYYYYNB087.5-8.5 tricks (21.0-24.0 points) or 9.0-10.0 NT tricks (21.5-23.5 points).  Limit strong 2!C.
 002D=YYYYYYN6088.5+ tricks (24+ points) or 10+ NT tricks (23.5+ points).  French 2!D.
