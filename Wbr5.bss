@@ -8,7 +8,7 @@
 002C=YYYYYYNB087.5-8.5 tricks (21.0-24.0 points) or 9.0-10.0 NT tricks (21.5-23.5 points).  Limit strong 2!C.
 002D=YYYYYYN6088.5+ tricks (24+ points) or 10+ NT tricks (23.5+ points).  French 2!D.
 002N=NYYYYYN42-4!S 2-4!H 2-5!D 2-5!C.  8.0-9.0 tricks (19.5-21.5 points).
-003N=YYYYYYY2AKQxxxx or more in either minor.  No stopper in other suits.  Gambling 3NT.
+003N=YYYYYYY9AKQxxxx or more in either minor.  No stopper in other suits.  Gambling 3NT.
 004C=YYYYYYN6087+!H.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !H if exactly 7 cards.  Namyats.
 004D=YYYYYYN6087+!S.  6.0-7.5 tricks (16.5-21.0 points).  0.5+ tricks (AQJ or better) in !S if exactly 7 cards.  Namyats.
 004H=NYYYYYY9784.0-6.0 tricks (10.5-16.5 points).  0+ tricks (AJ or better) in !H if exactly 7 cards.
@@ -119,6 +119,7 @@
 *001C3C=YYYYYYY3085+!S 5+!D.  4.5+ tricks (12+ points).  French Michaels.
 *021C3C=YYYYYYY3085+!S 5+!D.  5+ tricks (13.5+ points).  French Michaels.
 *031C3C=YYYYYYY3085+!S 5+!D.  4+ tricks (10.5+ points).  French Michaels.
+*001C3N=YYYYYYY9!DAKQxxxx or more.  !C stopped.  Majors unstopped.  Gambling 3NT.
 *001C4C=YYYYYYY6014-5!S 4-5!H 4-5!D.  7.5+ tricks (21+ points).
 
 *001D2D=YYYYYYY3085+!S 5+!H.  4+ tricks (10.5+ points).  French Michaels.
@@ -126,6 +127,7 @@
 *021D2N=YYYYYYY35+!H 5+!C.  5+ tricks (13.5+ points).  Unusual NT.
 *031D2N=YYYYYYY35+!H 5+!C.  4+ tricks (10.5+ points).  Unusual NT.
 *001D3D=YYYYYYY3085+!S 5+!C.  5+ tricks (13.5+ points).  French Michaels.
+*001D3N=YYYYYYY9!CAKQxxxx or more.  !D stopped.  Majors unstopped.  Gambling 3NT.
 *001D4D=YYYYYYY6014-5!S 4-5!H 4-5!C.  7.5+ tricks (21+ points).
 
 *001H2H=YYYYYYY3085+!S 5+!C.  4.5+ tricks (12+ points).  French Michaels.
@@ -138,6 +140,7 @@
 *021H3C=YYYYYYY3085+!S 5+!D.  5+ tricks (13.5+ points).  French Michaels.
 *031H3C=YYYYYYY3085+!S 5+!D.  4+ tricks (10.5+ points).  French Michaels.
 *001H3H=YYYYYYY4085+!S 5+!C.  7+ tricks (19.5+ points).  Super Michaels.
+*001H3N=YYYYYYY9AKQxxxx or more in either minor.  !H stopped.  Other suits unstopped.  Gambling 3NT.
 *001H4H=YYYYYYY6014-5!S 4-5!D 4-5!C.  7.5+ tricks (21+ points).
 
 *001S2S=YYYYYYY3085+!H 5+!C.  4.5+ tricks (12+ points).  French Michaels.
@@ -149,6 +152,7 @@
 *031S3C=YYYYYYY3085+!H 5+!D.  4.5+ tricks (12+ points).  French Michaels.
 *021S3C=YYYYYYY3085+!H 5+!D.  5+ tricks (13.5+ points).  French Michaels.
 *031S3C=YYYYYYY3085+!H 5+!D.  4+ tricks (10.5+ points).  French Michaels.
+*001S3N=YYYYYYY9AKQxxxx or more in either minor.  !S stopped.  Other suits unstopped.  Gambling 3NT.
 *001S3S=YYYYYYY4085+!H 5+!C.  7+ tricks (19.5+ points).  Super Michaels.
 *001S4S=YYYYYYY6014-5!H 4-5!D 4-5!C.  7.5+ tricks (21+ points).
 
