@@ -58,6 +58,28 @@
 033S=NYYYYYY9682.5-5.5 tricks (6.0-14.5).  0+ tricks (KQJ or better) in !S if exactly 6 cards.
 403S=NYYYYYY3784.5-5.5 tricks (12.0-14.5 points).
 
+001C1DD=NYYYYYY4+!H.  2.5-6.0 tricks (6.0-16.5 points).  Collante.
+001C1D1H=NYYYYYY3582.5-6.0 tricks (6.0-16.5 points).  Collante.
+001C1D1S=NYYYYYY3482.5-6.0 tricks (6.0-16.5 points).  Collante.
+
+001C1HD=NYYYYYY4+!S.  2.5-6.0 tricks (6.0-16.5 points).  Collante.
+001C1H1S=NYYYYYY3582.5-6.0 tricks (6.0-16.5 points).  Collante.
+
+001C1SD=NYYYYYY4+!H.  2.5-6.0 tricks (6.0-16.5 points).  Rodrigue.
+501C1S2C=YYYYYYY2085+!H.  2.5-4.5 tricks (6.0-12.0 points).  Rodrigue.
+501C1S2H=NYYYYYY5584.5+ tricks (12+ points).
+601C1S2C=YYYYYYY2085+!H.  2.5-4.0 tricks (6.0-10.5 points).  Rodrigue.
+601C1S2H=NYYYYYY458
+
+001D1HD=NYYYYYY4+!S.  2.5-6.0 tricks (6.0-16.5 points).  Collante.
+001D1H1S=NYYYYYY3582.5-6.0 tricks (6.0-16.5 points).  Collante.
+
+001D1SD=NYYYYYY4+!H.  2.5-6.0 tricks (6.0-16.5 points).  Rodrigue.
+501D1S2D=YYYYYYY2085+!H.  2.5-4.5 tricks (6.0-12.0 points).  Rodrigue.
+501D1S2H=NYYYYYY5584.5+ tricks (12+ points).
+601D1S2D=YYYYYYY2085+!H.  2.5-4.0 tricks (6.0-10.5 points).  Rodrigue.
+601D1S2H=NYYYYYY458
+
 001HP1S=NYYYYYY3482.5-6.0 tricks (6.0-16.5 points) or 1+ NT trick (6+ points).
 001HP1N=NYYYYYY20-3!S 0-2!H.  1.0-3.5 tricks (6.0-11.0 points).
 001HP2H=NNNYYYY2382.5-4.0 tricks (6.0-10.5 points).
