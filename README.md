@@ -3,6 +3,9 @@ Wbridge5
 This is the convention card used by [Wbridge5][wbr5], a prominent French bridge
 software.
 
+This is a 2/1 bidding system.  Some conventions are popular only in France, but
+they improve *the American* bidding structure.
+
 The software evaluates hands with real-time double-dummy analysis, unsuitable
 to describe in the convention card.  Nevertheless, there is big data from
 [Thomas's Bridge Fantasia][thomas] telling us what to bid.

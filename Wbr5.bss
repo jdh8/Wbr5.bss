@@ -1,4 +1,4 @@
-*00{Wbridge5}=NYYYYYYThis is the convention card used by [Wbridge5][wbr5], a prominent French bridge software.  Source of this CC is [hosted on Github][host].\\\\The software evaluates hands with real-time double-dummy analysis, unsuitable to describe in the convention card.  Nevertheless, there is big data from [Thomas's Bridge Fantasia][thomas] telling us what to bid.\\\\[wbr5]: http://wbridge5.com/\\[host]: https://github.com/jdh8/Wbr5.bss\\[thomas]: http://bridge.thomasoandrews.com/valuations/
+*00{Wbridge5}=NYYYYYYThis is the convention card used by **Wbridge5**, a prominent French bridge software.  Source of this CC is [hosted on Github][host].\\\\This is a 2/1 bidding system.  Some conventions are popular only in France, but they improve *the American* bidding structure.\\\\The software evaluates hands with real-time double-dummy analysis, unsuitable to describe in the convention card.  Nevertheless, there is big data from *Thomas's Bridge Fantasia* telling us what to bid.
 
 001C=NYYYYYY338Suit [4.5, 7.5) or NT [4, 9), 13-21.  NT [3.5, 9), 11-21.
 001D=NYYYYYY348Suit [4.5, 7.5) or NT [4, 9), 13-21.  NT [3.5, 9), 11-21.  Perhaps 4!S 4!H 3!D 2!C.
