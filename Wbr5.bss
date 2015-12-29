@@ -298,4 +298,90 @@
 *001N2HP2N=YYYYNNYCAsk for the minor.
 *001N2SP2N=YYYNYNYCAsk for the minor.
 
+*002C{Natural}=NYYYYYY348
+*002C{Natural}3C=YYYYYYY3085+!S 5+!H.  Suit [4.5, any), 13+.
+*002C{Natural}4C=YYYYYYY6014-5!S 4-5!H 4-5!D.  Suit [7, any), 21+.
+*032C{Natural}4N=YYYYYYY35+!H 5+!D.  Suit [5.75, any), 16+.  Unusual NT.
+*012C{Natural}4N=YYYYYYY35+!H 5+!D.  Suit [6.00, any), 17+.  Unusual NT.
+*062C{Natural}4N=YYYYYYY35+!H 5+!D.  Suit [6.25, any), 18+.  Unusual NT.
+
+*002D{Natural}=NYYYYYY348
+*002D{Natural}3D=YYYYYYY3085+!S 5+!H.  Suit [4.5, any), 13+.
+*002D{Natural}4D=YYYYYYY6014-5!S 4-5!H 4-5!C.  Suit [7, any), 21+.
+*032D{Natural}4N=YYYYYYY35+!H 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*012D{Natural}4N=YYYYYYY35+!H 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*062D{Natural}4N=YYYYYYY35+!H 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*002H3H=YYYYYYY4040-4!S 4+!D 4+!C.  Suit [6.5, any), 19+.
+*002H4C=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*002H4D=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*002H4H=YYYYYYY6014-5!S 4-5!D 4-5!C.  Suit [7, any), 21+.
+*032H4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*012H4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*062H4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*002S3S=YYYYYYY4040-4!H 4+!D 4+!C.  Suit [6.5, any), 19+.
+*002S4C=NYYYYYY3585+!H.  Suit [5, any), 14+.  Leaping.
+*002S4D=NYYYYYY3585+!H.  Suit [5, any), 14+.  Leaping.
+*002S4S=YYYYYYY6014-5!H 4-5!D 4-5!C.  Suit [7, any), 21+.
+*032S4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*012S4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*062S4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*003C4C=YYYYYYY3085+!S 5+!H.  Suit [4.5, any), 13+.  Leaping.
+*003C4D=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*033C4N=YYYYYYY35+!H 5+!D.  Suit [5.75, any), 16+.  Unusual NT.
+*013C4N=YYYYYYY35+!H 5+!D.  Suit [6.00, any), 17+.  Unusual NT.
+*063C4N=YYYYYYY35+!H 5+!D.  Suit [6.25, any), 18+.  Unusual NT.
+
+*003D4C=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*003D4D=YYYYYYY3085+!S 5+!H.  Suit [4.5, any), 13+.  Leaping.
+*033D4N=YYYYYYY35+!H 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*013D4N=YYYYYYY35+!H 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*063D4N=YYYYYYY35+!H 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*003H4C=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*003H4D=NYYYYYY3585+!S.  Suit [5, any), 14+.  Leaping.
+*003H4H=YYYYYYY6014-5!S 4-5!D 4-5!C.  Suit [7, any), 21+.
+*033H4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*013H4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*063H4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*003S4C=NYYYYYY3585+!H.  Suit [5, any), 14+.  Leaping.
+*003S4D=NYYYYYY3585+!H.  Suit [5, any), 14+.  Leaping.
+*003S4S=YYYYYYY6014-5!H 4-5!D 4-5!C.  Suit [7, any), 21+.
+*033S4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*013S4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*063S4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*034C4N=YYYYYYY35+!H 5+!D.  Suit [5.75, any), 16+.  Unusual NT.
+*014C4N=YYYYYYY35+!H 5+!D.  Suit [6.00, any), 17+.  Unusual NT.
+*064C4N=YYYYYYY35+!H 5+!D.  Suit [6.25, any), 18+.  Unusual NT.
+*004C5C=YYYYYYY6014-5!S 4-5!H 4-5!D.  Suit [7, any), 21+.
+
+*034D4N=YYYYYYY35+!H 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*014D4N=YYYYYYY35+!H 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*064D4N=YYYYYYY35+!H 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+*004D5D=YYYYYYY6014-5!S 4-5!H 4-5!C.  Suit [7, any), 21+.
+
+*004C{Namyats}=YYYYYYY0084+!H
+*004C{Namyats}4H=YYYYYYY6014-5!S 4-5!D 4-5!C.  Suit [7, any), 21+.
+*034C{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*014C{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*064C{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*004D{Namyats}=YYYYYYY0084+!S
+*004D{Namyats}4S=YYYYYYY6014-5!H 4-5!D 4-5!C.  Suit [7, any), 21+.
+*034D{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*014D{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*064D{Namyats}4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*034H4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*014H4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*064H4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
+*034S4N=YYYYYYY35+!D 5+!C.  Suit [5.75, any), 16+.  Unusual NT.
+*014S4N=YYYYYYY35+!D 5+!C.  Suit [6.00, any), 17+.  Unusual NT.
+*064S4N=YYYYYYY35+!D 5+!C.  Suit [6.25, any), 18+.  Unusual NT.
+
 %BBEECDDDDBBBBBBBBBBBBBBDDFCCEDGCBBBBBBBBHFAHFAHCAHFAHFAHCAVinje trump signal: Hi-Lo shows a hand dealt with 3 even-card suits.\\Rules are followed as strictly as possible in the first 7 tricks.
