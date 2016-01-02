@@ -1,4 +1,4 @@
-*00{Wbridge5}=NYYYYYYThis is the convention card used by **Wbridge5**, a prominent French bridge software.  Source of this CC is [hosted on Github][host].\\\\This is a 2/1 bidding system.  Some conventions are popular only in France, but they improve *the American* bidding structure.\\\\The software evaluates hands with real-time double-dummy analysis, unsuitable to describe in the convention card.  Nevertheless, there is big data from *Thomas's Bridge Fantasia* telling us what to bid.
+*00{Wbridge5}=NYYYYYYThis is the convention card used by **Wbridge5**, a prominent French bridge software.  Source of this CC is hosted on Github.\\https://github.com/jdh8/Wbr5.bss\\\\This is a 2/1 bidding system.  Some conventions are popular only in France, but they improve *the American* bidding structure.\\\\The software evaluates hands with real-time double-dummy analysis, unsuitable to describe in the convention card.  Nevertheless, there is big data from *Thomas's Bridge Fantasia* telling us what to bid.
 
 001C=NYYYYYY338Suit [4.5, 7.5) or NT [4, 9), 13-21.  NT [3.5, 9), 11-21.
 001D=NYYYYYY348Suit [4.5, 7.5) or NT [4, 9), 13-21.  NT [3.5, 9), 11-21.  Perhaps 4!S 4!H 3!D 2!C.
@@ -82,6 +82,32 @@
 404H=NYYYYYY978Suit [6, 7), 16-19.  !H [0, 0.5) i.e. AJ or KQJ if 7!H.
 404S=NYYYYYY978Suit [6, 7), 16-19.  !S [0, 0.5) i.e. AJ or KQJ if 7!S.
 
+001CP1N=NYYYYYY30-3!S 0-3!H.  Suit [any, 4.25).  NT [2, 3.5), 8-10.
+001CP2C=NYYYYYY2480-3!S 0-3!H.  Suit [2.5, 4), 6-10.
+001CP3D=YNYNNNY7015+!C.  Splinter.
+001CP3H=YNYNNYY7015+!C.  Splinter.
+001CP3S=YNYNNYY7015+!C.  Splinter.
+001CP4C=NYYYYYY4780-3!S 0-3!H.  Suit [4, 5), 11-13.
+
+501CP1D=NYYYYYY548Suit [2.5, 6), 6-16.
+501CP1H=NYYYYYY548Suit [2.5, 6), 6-16.
+501CP1S=NYYYYYY548Suit [2.5, 6), 6-16.
+501CP2D=NYYYYYN748Suit [6, any), 17+.
+501CP2H=NYYYYYN748Suit [6, any), 17+.
+501CP2S=NYYYYYN748Suit [6, any), 17+.
+501CP3C=NYYYYYY4480-3!S 0-3!H.  Suit [4, 6), 11-16.
+501CP4H=NYYYYYY278Suit [6.5, 7.5), 19-22.
+501CP4S=NYYYYYY278Suit [6.5, 7.5), 19-22.
+501CP5C=NYYYYYY2480-3!S 0-3!H.  Suit [5, 6.5), 13-18.
+
+601CP1D=NYYYYYY248Suit [2.5, 5), 6-13.
+601CP1H=NYYYYYY248Suit [2.5, 5), 6-13.
+601CP1S=NYYYYYY248Suit [2.5, 5), 6-13.
+601CP2D=NYYYYYY4584+!C.  Fit-showing.
+601CP2H=NYYYYYY4584+!C.  Fit-showing.
+601CP2S=NYYYYYY4584+!C.  Fit-showing.
+601CP3C=NYYYYYY4580-3!S 0-3!H.  Suit [4, 5), 11-13.
+
 001C1DD=NYYYYYY4+!H.  Suit [2, 6), 6-17.  Collante.
 001C1D1H=NYYYYYY358Suit [2, 6), 6-17.  Collante.
 001C1D1S=NYYYYYY348Suit [2, 6), 6-17.  Collante.
@@ -94,6 +120,32 @@
 501C1S2H=NYYYYYY558
 601C1S2H=NYYYYYY458
 
+001DP1N=NYYYYYY20-3!S 0-3!H.  Suit [any, 4.25).  NT [1, 3.5), 6-10.
+001DP2D=NYYYYYY2480-3!S 0-3!H.  Suit [2.5, 4), 6-10.
+001DP3H=YNYNNYY7015+!D.  Splinter.
+001DP3S=YNYNNYY7015+!D.  Splinter.
+001DP4C=YNYNNNY7015+!D.  Splinter.
+001DP4D=NYYYYYY4780-3!S 0-3!H.  Suit [4, 5), 11-13.
+
+501DP1H=NYYYYYY548Suit [2.5, 6), 6-16.
+501DP1S=NYYYYYY548Suit [2.5, 6), 6-16.
+501DP2C=NYYYYYN648
+501DP2H=NYYYYYN748Suit [6, any), 17+.
+501DP2S=NYYYYYN748Suit [6, any), 17+.
+501DP3C=NYYYYYN7486+!D or 6+!C.  Some singleton or void, or 7-2-2-2.  Suit [6, any), 17+.
+501DP3D=NYYYYYY4480-3!S 0-3!H.  Suit [4, 6), 11-16.
+501DP4H=NYYYYYY278Suit [6.5, 7.5), 19-22.
+501DP4S=NYYYYYY278Suit [6.5, 7.5), 19-22.
+501DP5D=NYYYYYY2480-3!S 0-3!H.  Suit [5, 6.5), 13-18.
+
+601DP1H=NYYYYYY248Suit [2.5, 5), 6-13.
+601DP1S=NYYYYYY248Suit [2.5, 5), 6-13.
+601DP2C=NYYYYYY458
+601DP2H=NYYYYYY4584+!D.  Fit-showing.
+601DP2S=NYYYYYY4584+!D.  Fit-showing.
+601DP3C=NYYYYYY4584+!D.  Fit-showing.
+601DP3D=NYYYYYY4480-3!S 0-3!H.  Suit [4, 5), 11-13.
+
 001D1HD=NYYYYYY4+!S.  Suit [2, 6), 6-17.  Collante.
 001D1H1S=NYYYYYY358Suit [2, 6), 6-17.  Collante.
 
@@ -102,44 +154,45 @@
 501D1S2H=NYYYYYY658
 601D1S2H=NYYYYYY458
 
-001HP1S=NYYYYYY348Suit [2.5, 6), 6-16.
 001HP1N=NYYYYYY20-3!S 0-3!H.  Suit [any, 4.25).  NT [1, 3.5), 6-10.  Semiforcing.
 001HP2H=NNNYYYY238Suit [2.5, 4), 6-10.
-001HP2N=NNNYNYNB2-4!S 3-6!H 2-5!D 2-5!C.  Suit [4, 6), 11-16.  Fitted 2NT.
+001HP3S=YNNYNNY7014+!H.  Splinter.
+001HP4C=YNNYNNY7014+!H.  Splinter.
+001HP4D=YNNYNNY7014+!H.  Splinter.
 001HP4H=NNNNYNN948Suit [3, 5), 7-12.  NT [any, 3), 0-10.
 
-001HP1NPP=NYYYYYY3-4!S 5!H 2-3!D 1-2!C.  NT [3, 5.5).
+001HP1NPP=NYYYYYY   3-4!S 5!H 2-3!D 1-2!C.  NT [3, 5.5), 13-16.
 001HP1NP2C=NYYYYYY238
 001HP1NP2D=NYYYYYY248
 001HP1NP2H=NYYYYYY268
 
+501HP1S=NYYYYYY548Suit [2.5, 6), 6-16.
 501HP2C=NYYYYYN648
 501HP2D=NYYYYYN648
-501HP2S=NYYYYYN748Suit [6, any), 16+.
+501HP2S=NYYYYYN748Suit [6, any), 17+.
+501HP2N=NNNYNYNB2-4!S 3-6!H 2-5!D 2-5!C.  Suit [4, 6), 11-16.  Fitted 2NT.
 501HP3C=YNNYNNY3084+!H.  Suit [2.75, 3.5), 9-10.  Bergen raise.
 501HP3D=YNNYNNY4084+!H.  Suit [3.5, 4.25), 11-12.  Bergen raise.
 501HP3H=NNNYNNY948Suit [2, 2.75), 6-8.  Bergen raise.
-501HP3S=YNNYNNY7014+!H.  Splinter.
 501HP3N=NNNYNNN72-4!S 4-6!H 2-5!D 2-5!C.  Suit [6, 7), 16-19.  Fitted 3NT.
-501HP4C=YNNYNNY7014+!H.  Splinter.
-501HP4D=YNNYNNY7014+!H.  Splinter.
 
+601HP1S=NYYYYYY248Suit [2.5, 5), 6-13.
 601HP2C=NYYYYYY458
 601HP2D=NYYYYYY458
 601HP2S=NYYYYYY4583+!H.  Fit-showing.
+601HP2N=NNNYNYNB2-4!S 3-6!H 2-5!D 2-5!C.  Suit [4, 5), 11-13.  Fitted 2NT.
 601HP3C=NYYYYYY4583+!H.  Fit-showing.
 601HP3D=NYYYYYY4583+!H.  Fit-showing.
 601HP3H=NYYYYYY438Limit raise.
-601HP3S=YNNYNNY7014+!H.  Splinter.
-601HP4C=YNNYNNY7014+!H.  Splinter.
-601HP4D=YNNYNNY7014+!H.  Splinter.
 
 001SP1N=NYYYYYY20-3!S.  Suit [any, 4.25).  NT [1, 3.5), 6-10.  Semiforcing.
 001SP2S=NNNYYYY238Suit [2.5, 4), 6-10.
-001SP2N=NNNNYYNB3-6!S 2-4!H 2-5!D 2-5!C.  Suit [4, 6), 11-16.  Fitted 2NT.
+001SP4C=YNNNYNY7014+!S.  Splinter.
+001SP4D=YNNNYNY7014+!S.  Splinter.
+001SP4H=YNNNYNY7014+!S.  Splinter.
 001SP4S=NNNNYNN948Suit [3, 5), 7-12.  NT [any, 3), 0-10.
 
-001SP1NPP=NYYYYYY5!S 3!H 3!D 2!C.  NT [3, 5.5).
+001SP1NPP=NYYYYYY   5!S 3!H 3!D 2!C.  NT [3, 5.5), 13-16.
 001SP1NP2C=NYYYYYY238
 001SP1NP2D=NYYYYYY248
 001SP1NP2H=NYYYYYY248
@@ -148,25 +201,21 @@
 501SP2C=NYYYYYN648
 501SP2D=NYYYYYN648
 501SP2H=NYYYYYN658
+501SP2N=NNNNYYNB3-6!S 2-4!H 2-5!D 2-5!C.  Suit [4, 6), 11-16.  Fitted 2NT.
 501SP3C=YNNNYNY3084+!S.  Suit [2.75, 3.5), 9-10.  Bergen raise.
 501SP3D=YNNNYNY4084+!S.  Suit [3.5, 4.25), 11-12.  Bergen raise.
-501SP3H=NYYYYYN748Suit [6, any), 16+.
+501SP3H=NYYYYYN7484!H or 0-2!S 7+!H.  Suit [6, any), 17+.
 501SP3S=NNNNYNY948Suit [2, 2.75), 6-8.  Bergen raise.
 501SP3N=NNNNYNN74-6!S 2-4!H 2-5!D 2-5!C.  Suit [6, 7), 16-19.  Fitted 3NT.
-501SP4C=YNNNYNY7014+!S.  Suit [4.5, 6), 12-16.  Splinter.
-501SP4D=YNNNYNY7014+!S.  Suit [4.5, 6), 12-16.  Splinter.
-501SP4H=YNNNYNY7014+!S.  Suit [4.5, 6), 12-16.  Splinter.
 
 601SP2C=NYYYYYY458
 601SP2D=NYYYYYY458
 601SP2H=NYYYYYY458
+601SP2N=NNNNYYNB3-6!S 2-4!H 2-5!D 2-5!C.  Suit [4, 5), 11-13.  Fitted 2NT.
 601SP3C=NYYYYYY4583+!S.  Fit-showing.
 601SP3D=NYYYYYY4583+!S.  Fit-showing.
 601SP3H=NYYYYYY4583+!S.  Fit-showing.
 601SP3S=NYYYYYY438Limit raise.
-601SP4C=YNNNYNY7014+!S.  Splinter.
-601SP4D=YNNNYNY7014+!S.  Splinter.
-601SP4H=YNNNYNY7014+!S.  Splinter.
 
 001NP2C=YYYYYYYC08Invitational+ with a 4+ major, or weak 4-5!S 4-5!H 4-5!D 0-1!C.  Stayman.
 001NP2D=YYYYYYYA085+!H.
@@ -207,7 +256,7 @@
 002DP3N=YYYYYYN72 aces.
 002DP4C=YYYYYYN7083 aces.
 
-003NPP=NYYNNYY2 aces or 3 stopped suits.
+003NPP=NYYNNYY   2 aces or 3 stopped suits.
 003NP4C=YYYNNNYC08Pass or correct to !D.
 003NP5C=YYYNNNYC08Pass or correct to !D.
 003NP6C=YYYNNYN708Pass or correct to !D.
